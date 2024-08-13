@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @vishnu-geek
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Cross Chain Compatability
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on GITHUB
+- 📫 You can Reach me on Every SOCIAL Plaform
+
 
 <!---
 vishnu-geek/vishnu-geek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
